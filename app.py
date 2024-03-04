@@ -1,0 +1,1 @@
+print('algo en la consola')
